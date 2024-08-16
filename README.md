@@ -45,14 +45,14 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!---<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tomoe-12/KhunThiHan/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
 
-<hr/>
+<hr/> --->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
