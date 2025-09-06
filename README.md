@@ -15,22 +15,25 @@
  
  🌱 I’m currently learning **NextJs, TypeScript **
 
-💬 Ask me about **React,NextJs, TypeScript... or anything [here](https://www.linkedin.com/in/khun-thi-han-73a8482a9/)**
+💬 Ask me about **React,NextJs, TypeScript... or anything [here](https://www.linkedin.com/in/khun-thi-han-b698a0382/)**
 
-⚡ Fun fact **I am still a single , here my phone number - 09 785 146 940 **
+⚡ Fun fact ** Hot water will turn ice faster than cold water **
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:li8993han@gmail.com">
+  <a href="mailto:khunthihan.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/khun-thi-han-73a8482a9/" target="_blank">
+    <a href="mailto:khunthihan.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+  <a href="https://www.linkedin.com/in/khun-thi-han-b698a0382/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a  target="https://portfolio-one-zeta-13.vercel.app/">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  <a href="https://khunthihan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
 </div>
 
  <hr/>
@@ -60,7 +63,7 @@
 
  <!--- vercel sth else --->
 <!--- <img width=390 src="https://github-readme-streak-stats-tau-puce.vercel.app?user=tomoe-12&theme=dark&count_private=true&theme=react&border_radius=10" alt="streak stats"/>-->
-<img src="https://github-readme-streak-stats-five-xi.vercel.app?user=Tomoe-12%20&theme=react&count_private=true&mode=weekly&border_radius=10" alt="GitHub Streak" />
+<!-- <img src="https://github-readme-streak-stats-five-xi.vercel.app?user=Tomoe-12%20&theme=react&count_private=true&mode=weekly&border_radius=10" alt="GitHub Streak" /> -->
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Tomoe-12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomoe-12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
